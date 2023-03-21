@@ -1,6 +1,4 @@
-+-------------------------------------------+
-| Asistente Virtual Controlado por Voz      |
-+-------------------------------------------+
+# Asistente Virtual Controlado por Voz   
 
 Este proyecto es un asistente virtual controlado por voz, desarrollado con Python. El asistente virtual utiliza tecnologías de Text-to-Speech para realizar búsquedas en Google, reproducir videos en YouTube, preguntar la hora, abrir y cerrar programas configurados y usar comandos de consola.
 
