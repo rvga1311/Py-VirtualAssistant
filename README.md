@@ -6,8 +6,9 @@ Este proyecto es un asistente virtual controlado por voz, desarrollado con Pytho
 
 Antes de ejecutar este proyecto, se necesitan los siguientes requerimientos:
 
-- Python 3.x
+- Python 3.7 o superior
 - Librerías: pyttsx3, speech_recognition, pywhatkit, datetime, os
+- Windows 10 o superior
 
 ## Instalación
 
